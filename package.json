@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "npmパッケージのテスト。 console.log で画像を出力します。",
   "main": "index.js",
-  "private": "true",
   "scripts": {
     "bin": "node bin/cli",
     "postinstall": "node bin/postinstall",
@@ -11,7 +10,7 @@
     "test:coverage": "jest --coverage"
   },
   "author": "ArmBand",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^27.1.0"
   }
