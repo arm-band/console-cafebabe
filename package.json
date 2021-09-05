@@ -9,7 +9,7 @@
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
-  "author": "ArmBand",
+  "author": "arm-band",
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.1.0"
